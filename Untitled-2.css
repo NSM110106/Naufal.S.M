@@ -26,6 +26,9 @@
     width: 30px; 
 }
 
+#check{
+    display: none;
+}
 section {
     padding-top: 5rem;
 }
