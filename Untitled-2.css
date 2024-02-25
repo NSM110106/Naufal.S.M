@@ -26,34 +26,6 @@
     width: 30px; 
 }
 
-#check{
-    display: none;
-}
-
-.sidebar {
-	position: fixed;
-	top: 0;
-	bottom: 0;
-	left: -300px;
-	width:300px;
-	background-color: rgb(83 83 83 / 90%);
-	transition: .3s;
-	z-index: 9999;
-}
-.sidebar ul li a {
-	color: #ffffff;
-}
-.sidebar ul li {
-	padding:24px;
-	transition: .3s;
-	transition-property: background-color;
-}
-.sidebar ul li:hover {
-	background-color: #F84744;
-}
-#check:checked ~ .sidebar {
-	left: 0;
-}
 
 section {
     padding-top: 5rem;
