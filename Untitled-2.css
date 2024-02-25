@@ -1,0 +1,31 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #e2edff;
+}
+
+.Ukuran {
+    height: auto;
+    width: 300px;
+}
+#projects {
+    background-color: #e2edff;
+}
+
+.Whatsapp{
+    height: auto;
+    width: 30px;
+}
+
+.Email{
+    height: auto;
+    width: 30px;
+}
+
+.Instagram{
+    height: auto;
+    width: 30px; 
+}
+
+section {
+    padding-top: 5rem;
+}
