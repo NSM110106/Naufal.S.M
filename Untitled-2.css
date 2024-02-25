@@ -76,6 +76,19 @@
   }
 }
 
+/* Bootstrap 5 styles for navbar toggler */
+.navbar-toggler {
+    border: none;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+}
+
+.navbar-toggler-icon {
+    width: 30px;
+    height: 30px;
+}
+
 .nav__list{
   display: flex;
   flex-direction: column;
